@@ -1,10 +1,9 @@
-# SoMeOptimumPost
+# SoMe Optimum Post
 
 Final project for the Building AI course
 
 ## Summary
-
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+The SoMe Optimum Post method utilizes AI to indicate how large impact a post might have. By comparing the post under consideration with previous posts made by oneself and potentially others, the method might make it easier to choose when to expend the effort of making a social media post on a given issue. Since this depends on the use of personal data, extensive consideration of data protection is needed.
 
 
 ## Background
