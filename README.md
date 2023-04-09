@@ -1,9 +1,9 @@
-# SoMe Optimum Post
+# SoMe Optimal Post
 
 Final project for the Building AI course
 
 ## Summary
-The SoMe Optimum Post method utilizes AI to indicate how large impact a post might have. By comparing the post under consideration with previous posts made by oneself and potentially others, the method might make it easier to choose when to expend the effort of making a social media post on a given issue. Since this depends on the use of personal data, extensive consideration of data protection is needed.
+The SoMe Optimal Post method utilizes AI to indicate how large impact a post on social media might have. By comparing the post under consideration with previous posts made by oneself and potentially others, the method might make it easier to choose when to expend the effort of making a social media post on a given issue. Since the method depends on the use of personal data, extensive consideration of data protection is needed.
 
 
 ## Background
